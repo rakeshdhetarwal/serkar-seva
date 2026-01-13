@@ -1,0 +1,7 @@
+{
+  "name": "SarkarSeva - India Government Portal",
+  "description": "A comprehensive, multilingual platform for Indian citizens to discover government schemes, check eligibility, and stay updated on government exams.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
